@@ -10,6 +10,7 @@
   <img align="center" alt="Lore-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lore-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Lore-pic" height="150" style="border-radius:50px;" src="https://media3.giphy.com/media/6EWyszhJ2kL3ceQuD2/giphy.gif?cid=ecf05e478ee5tqg07ekj4pzd9mmt9151ol9dxdji1qieklra&rid=giphy.gif&ct=g">
+   img align="center" alt="Lore-Sass" height="30" width="40" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
   
    ##
